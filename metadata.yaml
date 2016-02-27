@@ -1,0 +1,35 @@
+_repo: The-Legends-of-the-Jews-Volume-3_2881
+contributor:
+  translator:
+    agent_name: Radin, Paul
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '26638'
+    url: http://www.gutenberg.org/2009/agents/26638
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Radin
+creator:
+  author:
+    agent_name: Ginzberg, Louis
+    birthdate: 1873
+    deathdate: 1953
+    gutenberg_agent_id: '651'
+    url: http://www.gutenberg.org/2009/agents/651
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Ginzberg
+description: 'Volume 3: From the exodus to the death of Moses'
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish legends'
+- !lcsh 'Midrash -- Translations into English'
+- !lcsh 'Bible. Old Testament -- Legends'
+- !lcsh 'Aggada -- Translations into English'
+- !lcc 'BM'
+title: The Legends of the Jews — Volume 3
+url: http://www.gutenberg.org/ebooks/2881
