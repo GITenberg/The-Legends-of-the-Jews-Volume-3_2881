@@ -1,5 +1,5 @@
 _repo: The-Legends-of-the-Jews-Volume-3_2881
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Radin, Paul
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Bible. Old Testament -- Legends'
 - !lcsh 'Aggada -- Translations into English'
 - !lcc 'BM'
+- GITenberg
 title: The Legends of the Jews — Volume 3
 url: http://www.gutenberg.org/ebooks/2881
